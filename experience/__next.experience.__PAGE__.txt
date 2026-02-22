@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"gZU6iC_r7CcKsQIxEunxA","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"padding":"2rem","fontFamily":"sans-serif"},"children":[["$","h1",null,{"children":"Experience"}],["$","ul",null,{"children":[["$","li",null,{"children":"Solution Architect – EDAP project, leading engineering team"}],["$","li",null,{"children":"Stabilised East of England (EoE) project delivery"}],["$","li",null,{"children":"Implemented automated WorkSpaces provisioning MVP"}],["$","li",null,{"children":"Designed CloudWatch dashboards and logging solutions"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
