@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1441,<p>When people talk about management, the conversation usually centres around delivery, targets, and performance. Those things matter. But for me, one of the most meaningful parts of people management has always been mentoring.</p>
-<p>Helping someone grow — especially early in their career — is a responsibility I don’t take lightly. It’s also one of the most rewarding parts of the job.</p>
+2:T1433,<p>When people talk about management, the conversation usually centres around delivery, targets, and performance. Those things matter. But for me, one of the most meaningful parts of people management has always been mentoring.</p>
+<p>Helping someone grow - especially early in their career - is a responsibility I don’t take lightly. It’s also one of the most rewarding parts of the job.</p>
 <p>Over time, I’ve realised mentoring isn’t about having all the answers. It’s about helping someone believe they can find their own.</p>
 <h2>It’s Not About Giving Answers</h2>
 <p>When someone junior asks a question, the instinct can be to respond quickly with a solution. That feels helpful. It’s efficient. It keeps things moving.</p>
@@ -13,10 +13,10 @@
 <li>What do you think might work?</li>
 <li>What’s the risk if we approached it this way?</li>
 </ul>
-<p>At first, this can feel uncomfortable — especially for someone who just wants reassurance. But over time, it builds something far more valuable than quick fixes: independent thinking.</p>
+<p>At first, this can feel uncomfortable - especially for someone who just wants reassurance. But over time, it builds something far more valuable than quick fixes: independent thinking.</p>
 <p>The goal isn’t to create reliance. It’s to build confidence and capability.</p>
 <h2>Confidence Is Often the Missing Piece</h2>
-<p>Many junior colleagues are more capable than they realise. The gap isn’t always skill — it’s confidence.</p>
+<p>Many junior colleagues are more capable than they realise. The gap isn’t always skill - it’s confidence.</p>
 <p>Early in a career, it’s easy to interpret silence as criticism. A minor correction can feel like failure. One difficult meeting can overshadow weeks of good work.</p>
 <p>That’s why encouragement needs to be intentional and specific. Not empty praise, but genuine recognition:</p>
 <ul>
@@ -46,11 +46,11 @@
 <li>“Next time, try leading with the outcome.”</li>
 <li>“Consider how that might land with a non-technical audience.”</li>
 </ul>
-<p>Small adjustments, given early, prevent bigger issues later. And they show that you’re paying attention — not just to outcomes, but to development.</p>
+<p>Small adjustments, given early, prevent bigger issues later. And they show that you’re paying attention - not just to outcomes, but to development.</p>
 <h2>Stretching Without Overwhelming</h2>
 <p>There’s a balance between supporting someone and overprotecting them.</p>
 <p>Growth requires stretch. It requires responsibility slightly beyond comfort. But it also requires knowing someone isn’t alone.</p>
-<p>The most progress I’ve seen in junior colleagues comes when they’re trusted with something meaningful — a piece of ownership, a conversation, a decision — and they know support is there if they need it.</p>
+<p>The most progress I’ve seen in junior colleagues comes when they’re trusted with something meaningful - a piece of ownership, a conversation, a decision - and they know support is there if they need it.</p>
 <p>Trust signals belief. And belief often changes how someone sees themselves.</p>
 <h2>Mentoring Is Mostly Behaviour</h2>
 <p>We often think mentoring is about advice. In reality, it’s just as much about example.</p>
@@ -69,6 +69,6 @@
 <p>That’s when you realise growth compounds.</p>
 <p>People management isn’t just about delivering work. It’s about developing people who will go on to do things better than you did.</p>
 <p>And in the long run, that’s what makes the biggest difference.</p>
-0:{"buildId":"xpkqXAp5YsYIzYELBkrEx","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"j3s0dB0z-jt9Z1RdVNvHl","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
