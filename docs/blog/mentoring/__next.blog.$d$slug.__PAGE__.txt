@@ -69,6 +69,6 @@
 <p>That’s when you realise growth compounds.</p>
 <p>People management isn’t just about delivering work. It’s about developing people who will go on to do things better than you did.</p>
 <p>And in the long run, that’s what makes the biggest difference.</p>
-0:{"buildId":"LmyEJ_5D3Cf94h2Af957Q","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"xpkqXAp5YsYIzYELBkrEx","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
