@@ -1,0 +1,83 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+3:I[37457,["/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+5:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/26aa3f2dc8317fc2.css","style"]
+0:{"P":null,"b":"LmyEJ_5D3Cf94h2Af957Q","c":["","blog","mentoring"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","mentoring","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/26aa3f2dc8317fc2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","nav",null,{"className":"side-nav","children":[["$","div",null,{"className":"side-nav-trigger"}],["$","div",null,{"className":"side-nav-content","children":[["$","a",null,{"href":"/","children":"Home"}],["$","a",null,{"href":"/experience","children":"Experience"}],["$","a",null,{"href":"/projects","children":"Projects"}],["$","a",null,{"href":"/blog","children":"Blog"}],["$","a",null,{"href":"/contact","children":"Contact"}]]}]]}],["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],null]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:T1441,<p>When people talk about management, the conversation usually centres around delivery, targets, and performance. Those things matter. But for me, one of the most meaningful parts of people management has always been mentoring.</p>
+<p>Helping someone grow — especially early in their career — is a responsibility I don’t take lightly. It’s also one of the most rewarding parts of the job.</p>
+<p>Over time, I’ve realised mentoring isn’t about having all the answers. It’s about helping someone believe they can find their own.</p>
+<h2>It’s Not About Giving Answers</h2>
+<p>When someone junior asks a question, the instinct can be to respond quickly with a solution. That feels helpful. It’s efficient. It keeps things moving.</p>
+<p>But immediately giving the answer often solves the short-term problem while slowing long-term growth.</p>
+<p>Instead, I try to pause and ask:</p>
+<ul>
+<li>What have you tried so far?</li>
+<li>What do you think might work?</li>
+<li>What’s the risk if we approached it this way?</li>
+</ul>
+<p>At first, this can feel uncomfortable — especially for someone who just wants reassurance. But over time, it builds something far more valuable than quick fixes: independent thinking.</p>
+<p>The goal isn’t to create reliance. It’s to build confidence and capability.</p>
+<h2>Confidence Is Often the Missing Piece</h2>
+<p>Many junior colleagues are more capable than they realise. The gap isn’t always skill — it’s confidence.</p>
+<p>Early in a career, it’s easy to interpret silence as criticism. A minor correction can feel like failure. One difficult meeting can overshadow weeks of good work.</p>
+<p>That’s why encouragement needs to be intentional and specific. Not empty praise, but genuine recognition:</p>
+<ul>
+<li>“I liked how you structured that explanation.”</li>
+<li>“You handled that question calmly.”</li>
+<li>“You spotted something important there.”</li>
+</ul>
+<p>When people understand what they’re doing well, they repeat it. When they feel safe to make mistakes, they take ownership.</p>
+<p>Confidence grows in safe environments. And safe environments don’t happen by accident.</p>
+<h2>Explaining the Thinking Behind Decisions</h2>
+<p>One of the biggest shifts in someone’s development happens when they move from doing tasks to understanding context.</p>
+<p>It’s easy to explain what needs to be done. It takes more effort to explain why.</p>
+<ul>
+<li>Why this approach instead of another?</li>
+<li>Why does this trade-off matter?</li>
+<li>Why are we prioritising this now?</li>
+</ul>
+<p>Sharing that thinking helps junior colleagues connect the dots. It gives them a framework for decision-making rather than just a checklist to follow.</p>
+<p>Over time, you see the difference. They stop asking “What should I do?” and start saying “Here’s what I think we should do.”</p>
+<p>That shift is powerful.</p>
+<h2>Feedback Shouldn’t Be a Big Event</h2>
+<p>Feedback works best when it’s normal, not formal.</p>
+<p>If feedback only appears in structured reviews, it can feel heavy and loaded. But when it’s part of everyday conversations, it feels like growth rather than judgment.</p>
+<p>Sometimes it’s as simple as:</p>
+<ul>
+<li>“That worked really well.”</li>
+<li>“Next time, try leading with the outcome.”</li>
+<li>“Consider how that might land with a non-technical audience.”</li>
+</ul>
+<p>Small adjustments, given early, prevent bigger issues later. And they show that you’re paying attention — not just to outcomes, but to development.</p>
+<h2>Stretching Without Overwhelming</h2>
+<p>There’s a balance between supporting someone and overprotecting them.</p>
+<p>Growth requires stretch. It requires responsibility slightly beyond comfort. But it also requires knowing someone isn’t alone.</p>
+<p>The most progress I’ve seen in junior colleagues comes when they’re trusted with something meaningful — a piece of ownership, a conversation, a decision — and they know support is there if they need it.</p>
+<p>Trust signals belief. And belief often changes how someone sees themselves.</p>
+<h2>Mentoring Is Mostly Behaviour</h2>
+<p>We often think mentoring is about advice. In reality, it’s just as much about example.</p>
+<ul>
+<li>How you handle pressure  </li>
+<li>How you respond when you’re wrong  </li>
+<li>How you speak about people who aren’t in the room  </li>
+<li>How you deal with setbacks</li>
+</ul>
+<p>Junior colleagues notice all of it.</p>
+<p>You don’t have to announce lessons. You demonstrate them.</p>
+<p>And that demonstration is often more powerful than any structured guidance.</p>
+<h2>The Quiet Reward</h2>
+<p>One of the best moments in mentoring isn’t dramatic. It’s subtle.</p>
+<p>It’s when someone who used to hesitate starts leading conversations confidently.<br>When they challenge ideas constructively.<br>When they mentor someone else.</p>
+<p>That’s when you realise growth compounds.</p>
+<p>People management isn’t just about delivering work. It’s about developing people who will go on to do things better than you did.</p>
+<p>And in the long run, that’s what makes the biggest difference.</p>
+4:["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$d"},"style":{"lineHeight":"1.8"}}]]}]]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:I[27201,["/_next/static/chunks/2f236954d6a65e12.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"Ali Jaffer - Solution Architect"}],["$","meta","1",{"name":"description","content":"Personal website of Ali Jaffer, Solution Architect specializing in AWS and cloud infrastructure"}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.c3d51713.svg","sizes":"any","type":"image/svg+xml"}],["$","$Le","3",{}]]
