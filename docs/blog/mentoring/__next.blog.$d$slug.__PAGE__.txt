@@ -1,7 +1,8 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1433,<p>When people talk about management, the conversation usually centres around delivery, targets, and performance. Those things matter. But for me, one of the most meaningful parts of people management has always been mentoring.</p>
+2:T1499,<p>When people talk about management, the conversation usually centres around delivery, targets, and performance. Those things matter. But for me, one of the most meaningful parts of people management has always been mentoring.</p>
+<p><img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800" alt="Mentoring"></p>
 <p>Helping someone grow - especially early in their career - is a responsibility I don’t take lightly. It’s also one of the most rewarding parts of the job.</p>
 <p>Over time, I’ve realised mentoring isn’t about having all the answers. It’s about helping someone believe they can find their own.</p>
 <h2>It’s Not About Giving Answers</h2>
@@ -69,6 +70,6 @@
 <p>That’s when you realise growth compounds.</p>
 <p>People management isn’t just about delivering work. It’s about developing people who will go on to do things better than you did.</p>
 <p>And in the long run, that’s what makes the biggest difference.</p>
-0:{"buildId":"j3s0dB0z-jt9Z1RdVNvHl","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"mmnRdmieghq1MTYaG_SoZ","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","article",null,{"children":[["$","h1",null,{"children":"Growing Others: Reflections on Mentoring Junior Colleagues"}],["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"},"style":{"lineHeight":"1.8"}}]]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
