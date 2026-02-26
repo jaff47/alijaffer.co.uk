@@ -46,6 +46,6 @@
 <li>CompTIA A+</li>
 <li>CCNA</li>
 </ul>
-0:{"buildId":"hB7EzTSCoAk2nVQVe2Xax","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Experience"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"sXTJuhP8GRCY1QRCfVLUf","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Experience"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
