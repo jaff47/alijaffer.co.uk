@@ -1,6 +1,9 @@
 1:"$Sreact.fragment"
-2:I[79520,["/_next/static/chunks/744355e03808d4c7.js"],""]
-3:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"sXTJuhP8GRCY1QRCfVLUf","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],["$","h1",null,{"children":"Contact"}],["$","p",null,{"style":{"marginTop":"2rem","fontSize":"1.1rem","marginBottom":"2rem"},"children":"Message me on LinkedIn:"}],["$","div",null,{"className":"badge-base LI-profile-badge","data-locale":"en_US","data-size":"medium","data-theme":"light","data-type":"VERTICAL","data-vanity":"ali-jaffer-3aa089157","data-version":"v1","children":["$","a",null,{"className":"badge-base__link LI-simple-link","href":"https://www.linkedin.com/in/ali-jaffer-3aa089157?trk=profile-badge","children":"Ali Jaffer"}]}],["$","$L2",null,{"src":"https://platform.linkedin.com/badges/js/profile.js","strategy":"lazyOnload"}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/744355e03808d4c7.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[47257,["/_next/static/chunks/2f236954d6a65e12.js"],"ClientPageRoot"]
+3:I[69139,["/_next/static/chunks/0f38267498782369.js"],"default"]
+6:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"c-J_snMpYYmYitCps7Bn1","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0f38267498782369.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
