@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-3:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+3:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
 2:Tade,<h3>Enterprise Data &amp; Analytics Platform</h3>
 <p>Leading architecture and platform delivery for a large healthcare provider&#39;s Enterprise Data and Analytics ecosystem.</p>
@@ -17,5 +17,5 @@
 <p>Contributed to the architecture and delivery of modern integration gateways designed to onboard new GP IT system suppliers into a national digital healthcare ecosystem.</p>
 <p>Helped design and implement API-driven interfaces to replace legacy proprietary integrations, enabling greater interoperability, supplier innovation, and long-term scalability.</p>
 <p>Focused on modern cloud integration patterns, secure API architecture, interoperability standards, and scalable adoption across a large, distributed healthcare estate.</p>
-0:{"buildId":"2ahFhwRlRsJFBO7FNroWP","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Key Projects"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Key Projects"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9wDjHHemCH7fWl2KH-xdf"}
 5:null

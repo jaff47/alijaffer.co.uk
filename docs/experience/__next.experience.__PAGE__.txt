@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-4:I[97367,["/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
+4:I[97367,["/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
 2:Tf1c,<p>Cloud &amp; Platform Architect with extensive experience designing, building, and operating secure, scalable, and highly available enterprise infrastructure across public cloud and hybrid environments. Proven track record delivering cloud transformation, DevOps enablement, infrastructure modernisation, and platform standardisation initiatives within consultancy, enterprise, and regulated public sector environments.</p>
 <p>Recognised for combining deep technical expertise with excellent stakeholder management, cross-functional leadership, and team mentoring to drive engineering excellence and high-performance delivery cultures.</p>
@@ -46,6 +46,6 @@
 <li>CompTIA A+</li>
 <li>CCNA</li>
 </ul>
-0:{"buildId":"2ahFhwRlRsJFBO7FNroWP","rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Experience"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"style":{"maxWidth":"700px","margin":"0 auto","padding":"4rem 2rem"},"children":[["$","nav",null,{"style":{"marginBottom":"2rem"},"children":["$","a",null,{"href":"/","style":{"fontSize":"0.9rem"},"children":"← Home"}]}],[["$","h1",null,{"children":"Experience"}],["$","section",null,{"style":{"marginTop":"2rem","lineHeight":"1.6"},"children":["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]}]]]}],null,"$L3"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"9wDjHHemCH7fWl2KH-xdf"}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
